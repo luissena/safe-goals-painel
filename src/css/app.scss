@@ -1,0 +1,42 @@
+// app global css in SCSS form
+
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-color:#1F2933;
+  }
+
+.grey-900{
+    background-color: #1F2933;
+}
+.grey-800{
+    background-color: #323F4B;
+}
+.grey-700{
+    background-color: #3E4C59;
+}
+.grey-600{
+    background-color: #52606D;
+}
+.grey-500{
+    background-color: #616E7C;
+}
+.grey-400{
+    background-color: #7B8794;
+}
+.grey-300{
+    background-color: #9AA5B1;
+}
+.grey-200{
+    background-color: #CBD2D9;
+}
+.grey-100{
+    background-color: #E4E7EB;
+}
+.grey-50{
+    background-color: #F5F7FA;
+}
